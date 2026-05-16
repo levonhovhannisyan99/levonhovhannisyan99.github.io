@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="hy" data-theme="light">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title data-i18n="pageTitle">Լևոն Հովհաննիսյան - Վեբ ծրագրավորող</title>
+    <meta name="description" content="Levon Hovhannisyan - Web Developer & IT Specialist portfolio" />
+
+    <link rel="icon" type="image/jpeg" href="images/myphoto.jpg">
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="portfolio">
+        <header class="header">
+            <div class="container">
+                <div class="header-controls">
+                    <div class="control-group">
+                        <label for="lang-select" class="control-label" data-i18n="langLabel">Լեզու</label>
+                        <select id="lang-select" class="control-select">
+                            <option value="hy">Հայերեն</option>
+                            <option value="en">English</option>
+                        </select>
+                    </div>
+                    <div class="control-group">
+                        <label for="theme-select" class="control-label" data-i18n="themeLabel">Թեմա</label>
+                        <select id="theme-select" class="control-select">
+                            <option value="system" data-i18n="themeSystem">Համակարգային</option>
+                            <option value="light" data-i18n="themeLight">Բաց</option>
+                            <option value="dark" data-i18n="themeDark">Մուգ</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="profile">
+                    <img id="profile-img" src="images/myphoto.jpg" alt="Profile" class="profile-img" />
+                    <div class="profile-info">
+                        <h1 id="profile-name">—</h1>
+                        <p class="title" id="profile-title">—</p>
+                        <div class="contact" id="contact-block"></div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <section class="skills">
+                <div class="container">
+                    <h2 data-i18n="skills">Հմտություններ</h2>
+                    <div class="skills-grid">
+                        <div class="skill-category">
+                            <h3 data-i18n="technologies">Տեխնոլոգիաներ</h3>
+                            <div class="skill-tags" id="skills-list"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="projects">
+                <div class="container">
+                    <h2 data-i18n="projects">Նախագծեր</h2>
+                    <div class="projects-grid" id="projects-list"></div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>

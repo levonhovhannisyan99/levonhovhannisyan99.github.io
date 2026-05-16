@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "hy": "ԹՈՒՄՈ Պորտֆոլիո",
+            "en": "TUMO Portfolio"
+        },
+        "image": "images/projects/tumoportfolio.PNG",
+        "link": "https://portfolio.am.tumo.world/p/7vzy5wqplomk5zl5ljdxk2xrg8n1d063"
+    },
+    {
+        "id": 2,
+        "title": {
+            "hy": "Գաղտնաբառի գեներատոր",
+            "en": "Password Generator"
+        },
+        "image": "images/projects/Password Generator.PNG",
+        "link": "https://levonhovhannisyan99.github.io/Password-Generator/"
+    },
+    {
+        "id": 3,
+        "title": {
+            "hy": "Հաշվիչ",
+            "en": "Calculator"
+        },
+        "image": "images/projects/Calcu-ator.PNG",
+        "link": "https://levonhovhannisyan99.github.io/Calcu-ator/"
+    }
+]

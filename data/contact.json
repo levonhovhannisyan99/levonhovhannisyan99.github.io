@@ -1,0 +1,90 @@
+{
+    "name": {
+        "hy": "Լևոն Հովհաննիսյան",
+        "en": "Levon Hovhannisyan"
+    },
+    "title": {
+        "hy": "Վեբ ծրագրավորող և ՏՏ մասնագետ",
+        "en": "Web Developer & IT Specialist"
+    },
+    "email": {
+        "address": "levon.hovhannisyan999@gmail.com",
+        "icon": "images/gmail.png"
+    },
+    "phones": [
+        {
+            "number": "+374 77 238 895",
+            "icon": "images/phone.png"
+        },
+        {
+            "number": "+374 99 950 367",
+            "icon": "images/phone.png"
+        }
+    ],
+    "socials": [
+        {
+            "name": {
+                "hy": "ԼինկդԻն",
+                "en": "LinkedIn"
+            },
+            "url": "https://linkedin.com/in/levon-hovhannisyan-a91977219",
+            "icon": "images/linkedin.png"
+        },
+        {
+            "name": {
+                "hy": "Գիթհաբ",
+                "en": "GitHub"
+            },
+            "url": "https://github.com/levonhovhannisyan99",
+            "icon": "images/github.jpg"
+        },
+        {
+            "name": {
+                "hy": "ՎոթսԱփ",
+                "en": "WhatsApp"
+            },
+            "url": "https://wa.me/37499503671",
+            "icon": "images/whatsapp.png"
+        },
+        {
+            "name": {
+                "hy": "Վայբեր",
+                "en": "Viber"
+            },
+            "url": "viber://chat?number=37477238895",
+            "icon": "images/viber.jpeg"
+        },
+        {
+            "name": {
+                "hy": "Թելեգրամ",
+                "en": "Telegram"
+            },
+            "url": "https://t.me/LevonHovhannisyan28",
+            "icon": "images/telegram.png"
+        },
+        {
+            "name": {
+                "hy": "Ինստագրամ",
+                "en": "Instagram"
+            },
+            "url": "https://www.instagram.com/levon.hovhannisyan.5623?fbclid=IwY2xjawR1BHlleHRuA2FlbQIxMABicmlkETFadng0b3A0cFRBYk96a1N3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHt1JS4WG-LE2EOqw3TZ75l2JqbN_svQnzlnNFs_H-VfAPxpRL33p-s3VfvYl_aem_ZJ8NEsHUsP4l557sfuleKA",
+            "icon": "images/instagram.png"
+        },
+        {
+            "name": {
+                "hy": "Ֆեյսբուք 1",
+                "en": "Facebook 1"
+            },
+            "url": "https://www.facebook.com/levon.hovhannisyan.5623",
+            "icon": "images/facebook.png"
+        },
+        {
+            "name": {
+                "hy": "Ֆեյսբուք 2",
+                "en": "Facebook 2"
+            },
+            "url": "https://www.facebook.com/levon.hovhannisyan.195552",
+            "icon": "images/facebook.png"
+        }
+    ]
+}
